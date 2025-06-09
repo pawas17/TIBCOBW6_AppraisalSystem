@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:Staff xmlns:tns="http://www.example.org/Employee">
+    <tns:empdetails>
+        <tns:empid>100</tns:empid>
+        <tns:empname>Pravin Farde</tns:empname>
+        <tns:salary>10000.0</tns:salary>
+        <tns:projectdetails>
+            <tns:projectid>1000</tns:projectid>
+            <tns:projectname>10</tns:projectname>
+            <tns:profitearned>5.0</tns:profitearned>
+        </tns:projectdetails>
+        <tns:projectdetails>
+            <tns:projectid>1000</tns:projectid>
+            <tns:projectname>11</tns:projectname>
+            <tns:profitearned>5.0</tns:profitearned>
+        </tns:projectdetails>
+        <tns:projectdetails>
+            <tns:projectid>1000</tns:projectid>
+            <tns:projectname>13</tns:projectname>
+            <tns:profitearned>5.0</tns:profitearned>
+        </tns:projectdetails>
+    </tns:empdetails>
+</tns:Staff>
